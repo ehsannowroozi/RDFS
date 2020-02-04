@@ -33,3 +33,5 @@ three classes of attacks, show that feature randomization helps to
 hinder attack transferability, even if, in some cases, simply changing
 the architecture of the detector, or even retraining the detector is
 enough to prevent the transferability of the attacks.
+
+
