@@ -1,7 +1,7 @@
 # RDFS
 ### [Effectiveness of random deep feature selection for securing image manipulation detectors against adversarial examples](https://arxiv.org/abs/1910.12392) 
 
-Authors: Mauro Barni, [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), Benedetta Tondi and Bowen Zhang
+Authors: [Mauro Barni](https://scholar.google.it/citations?hl=en&user=ntRScY8AAAAJ), [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [Benedetta Tondi](https://scholar.google.it/citations?hl=en&user=xpNEfq4AAAAJ) and Bowen Zhang
 
 2018-2019 Department of Information Engineering and Mathematics, University of Siena, Italy.
 
